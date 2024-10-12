@@ -1,5 +1,5 @@
-mod management;
+mod graph;
 
 fn main() {
-    management::main_management();
+    graph::management::main_management();
 }
