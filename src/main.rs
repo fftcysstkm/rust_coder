@@ -1,5 +1,5 @@
-mod sprinklers;
+mod management;
 
 fn main() {
-    sprinklers::main_sprinkler();
+    management::main_management();
 }
