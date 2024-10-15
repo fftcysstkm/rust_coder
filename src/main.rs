@@ -1,5 +1,5 @@
-mod graph;
+mod ruisekiwa;
 
 fn main() {
-    graph::cat_snuke_voyage::main_cat_snuke_and_a_voyage();
+    ruisekiwa::get_ac::main_get_ac();
 }
