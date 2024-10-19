@@ -1,5 +1,5 @@
-mod ruisekiwa;
+mod recursive;
 
 fn main() {
-    ruisekiwa::score_sum_queries::main();
+    recursive::C1213121::main();
 }
